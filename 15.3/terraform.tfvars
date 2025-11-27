@@ -1,0 +1,7 @@
+yc_token  = "y0_AgAAAAAgYlj5AATuwQAAAAEKdg9lAABTdvVkGr9DaI4paqY4IHJyRd2meA"
+cloud_id  = "b1gtop2jhkqm3tje2502"
+folder_id = "b1gdbd9pfi1j9lpitol8"
+zone      = "ru-central1-a"
+bucket_name = "albertb"
+image_path  = "./image.jpg"
+sa_id = "ajeq51hj8qfteb1n1sen"
